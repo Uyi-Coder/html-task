@@ -1,0 +1,386 @@
+@media(min-width: 600px){
+body{
+  margin: 0;
+  background-color: #FFFFFF;
+  }
+  
+  .header{
+  background-color: white;
+  height: 70px;
+  padding-top: 20px;
+  }
+  
+  .title{
+  width: 40%;
+  position: absolute;
+  left: 40px;
+  }
+  
+  .my-name{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    }
+
+  .Nav{
+  width: 30%;
+  position: absolute;
+  right: 50px;
+  top: 20px;
+  margin: 10px 30px;
+  padding: 2px;
+  word-spacing: 10px;
+  }
+  
+  .link{
+  text-decoration: none;
+  color: black;
+  }
+  
+  .first-link{
+  color: blue;
+  }
+  
+  .container{
+  width: 40%;
+  height: 685px;
+  background-color: #E6DACE;
+  }
+  
+  
+  .profile-pics{
+  border-radius: 50%;
+  margin-top: 20px;
+  }
+  
+  hr{
+  width: 70px;
+  border: 1px solid blue;
+  }
+  
+  .profession{
+  margin: 0 auto 50px auto;
+  }
+  
+  .left-container{
+  background-color: #F4ECE6;
+  width: 400px;
+  height: 450px;
+  position: absolute;
+  left: 350px;
+  top:200px;
+  text-align: center;
+  padding-top: 30px;
+  }
+  
+  hr{
+  margin: 30px auto 30px auto;
+  }
+  
+  
+  .icon-wrapper{
+  background-color: white;
+  font-size: 20px;
+  word-spacing: 15px;
+  padding: 10px;
+  }
+  
+  .right-container{
+  background-color: white;
+  width: 400px;
+  height: 500px;
+  position: absolute;
+  left: 760px;
+  top: 200px;
+  text-align: left;
+  font-size: 20px;
+  }
+  
+  .btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3ce6fc;
+    background-image: -webkit-linear-gradient(top, #3ce6fc, #34d939);
+    background-image: -moz-linear-gradient(top, #3ce6fc, #34d939);
+    background-image: -ms-linear-gradient(top, #3ce6fc, #34d939);
+    background-image: -o-linear-gradient(top, #3ce6fc, #34d939);
+    background-image: linear-gradient(to bottom, #3ce6fc, #34d939);
+    text-decoration: none;
+  }
+  
+  
+  .bbttnn {
+    background: white;
+    background-image: -webkit-linear-gradient(top, white, white);
+    background-image: -moz-linear-gradient(top, white, white);
+    background-image: -ms-linear-gradient(top, white, white);
+    background-image: -o-linear-gradient(top, white, white);
+    background-image: linear-gradient(to bottom, white, white);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #02000a;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 1px;
+    text-decoration: none;
+  }
+  
+  .bbttnn:hover {
+    background: #ff0000;
+    background-image: -webkit-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -moz-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -ms-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -o-linear-gradient(top, #ff0000, #ff0000);
+    background-image: linear-gradient(to bottom, #ff0000, #ff0000);
+    text-decoration: none;
+  }
+  
+  .writeup{
+  margin-top: 40px;
+  font-family: sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  }
+  
+  .greetings{
+  font-size: 50px;
+  }
+  
+  .title-title{
+    font-family: arial;
+   font-size: 15px
+  }
+
+   .copyright{
+    font-size: 17px;
+    position: absolute;
+    left: 70px;
+    top: 870px
+  }
+
+  .bottom-table{
+    position: absolute;
+    right: 100px;
+    top: 870px;
+    
+    }
+
+    td{
+      padding: 20px;
+    }
+
+    .table-anchors{
+    letter-spacing: 10px;
+    }
+  }
+
+
+  @media(min-width: 319px) and (max-width: 600px) {
+    body{
+      margin: 0;
+      background-color: #FFFFFF;
+      }
+      
+      .header{
+      background-color: white;
+      height: 42px;
+      padding-top: 12px;
+      }
+      
+      .title{
+      width: 24%;
+      position: absolute;
+      left: 24px;
+      }
+      
+      .my-name{
+        color: black;
+        font-size: 12px;
+        font-weight: bold;
+        }
+    
+      .Nav{
+      width: 18%;
+      position: absolute;
+      right: 30px;
+      top: 12px;
+      margin: 6px 18px;
+      padding: 1.2px;
+      word-spacing: 6px;
+      }
+      
+      .link{
+      text-decoration: none;
+      color: black;
+      }
+      
+      .first-link{
+      color: blue;
+      }
+      
+      .container{
+      width: 24%;
+      height: 411px;
+      background-color: #E6DACE;
+      }
+      
+      
+      .profile-pics{
+      border-radius: 30%;
+      margin-top: 12px;
+      }
+      
+      hr{
+      width: 42px;
+      border: 0.6px solid blue;
+      }
+      
+      .profession{
+      margin: 0 auto 30px auto;
+      }
+      
+      .left-container{
+      background-color: #F4ECE6;
+      width: 240px;
+      height: 270px;
+      position: absolute;
+      left: 210px;
+      top:120px;
+      text-align: center;
+      padding-top: 18px;
+      }
+      
+      hr{
+      margin: 18px auto 18px auto;
+      }
+      
+      
+      .icon-wrapper{
+      background-color: white;
+      font-size: 12px;
+      word-spacing: 9px;
+      padding: 6px;
+      }
+      
+      .right-container{
+      background-color: white;
+      width: 240px;
+      height: 300px;
+      position: absolute;
+      left: 456px;
+      top: 120px;
+      text-align: left;
+      font-size: 12px;
+      }
+      
+      .btn {
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 16.8;
+        -moz-border-radius: 16.8;
+        border-radius: 16.8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 9px;
+        padding: 6px 12px 6px 12px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3ce6fc;
+        background-image: -webkit-linear-gradient(top, #3ce6fc, #34d939);
+        background-image: -moz-linear-gradient(top, #3ce6fc, #34d939);
+        background-image: -ms-linear-gradient(top, #3ce6fc, #34d939);
+        background-image: -o-linear-gradient(top, #3ce6fc, #34d939);
+        background-image: linear-gradient(to bottom, #3ce6fc, #34d939);
+        text-decoration: none;
+      }
+      
+      
+      .bbttnn {
+        background: white;
+        background-image: -webkit-linear-gradient(top, white, white);
+        background-image: -moz-linear-gradient(top, white, white);
+        background-image: -ms-linear-gradient(top, white, white);
+        background-image: -o-linear-gradient(top, white, white);
+        background-image: linear-gradient(to bottom, white, white);
+        -webkit-border-radius: 16.8;
+        -moz-border-radius: 16.8;
+        border-radius: 16.8px;
+        font-family: Arial;
+        color: #02000a;
+        font-size: 9px;
+        padding: 6px 12px 6px 12px;
+        border: solid #1f628d 0.6px;
+        text-decoration: none;
+      }
+      
+      .bbttnn:hover {
+        background: #ff0000;
+        background-image: -webkit-linear-gradient(top, #ff0000, #ff0000);
+        background-image: -moz-linear-gradient(top, #ff0000, #ff0000);
+        background-image: -ms-linear-gradient(top, #ff0000, #ff0000);
+        background-image: -o-linear-gradient(top, #ff0000, #ff0000);
+        background-image: linear-gradient(to bottom, #ff0000, #ff0000);
+        text-decoration: none;
+      }
+      
+      .writeup{
+      margin-top: 24px;
+      font-family: sans-serif;
+      font-size: 10.2px;
+      line-height: 15.6px;
+      }
+      
+      .greetings{
+      font-size: 30px;
+      }
+      
+      .title-title{
+        font-family: arial;
+       font-size: 9px
+      }
+    
+       .copyright{
+        font-size: 10.2px;
+        position: absolute;
+        left: 42px;
+        top: 522px
+      }
+    
+      .bottom-table{
+        position: absolute;
+        right: 60px;
+        top: 522px;
+        
+        }
+    
+        td{
+          padding: 12px;
+        }
+    
+        .table-anchors{
+        letter-spacing: 6px;
+        }
+  }
